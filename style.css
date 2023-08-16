@@ -1,0 +1,111 @@
+.body{
+    background-color: black;
+    height: 100%;
+    }
+.grid-container{
+  background-color:#f0ecec;;
+  width: 100%;
+}
+.cellDestiny{
+    text-align: center;
+}
+.cellHorizon{
+    text-align: center;
+}
+.cellWarzon{
+    text-align: center;
+}
+.botonwfd{
+    background-color: rgb(52, 85, 109);
+}
+
+.fondo{
+   
+   background-image: url("https://images.hdqwalls.com/download/call-of-duty-warzone-fh-2560x1080.jpg");
+}
+.fondodos-fluid{
+  background: no-repeat fixed url("https://cdn.wccftech.com/wp-content/uploads/2017/06/d2_pc_crucible_13_1497282053-scaled.jpg") ;
+   
+   height: 1900px;
+  
+}
+.fodonum{
+  background: url("https://pa1.narvii.com/6602/e033e83fa51d24cf1a633ba405a958f11bfdefac_hq.gif");
+}
+.formulario{
+  t
+}
+
+.input-group-rounded .input-group-field {
+  border-radius: 5000px 0 0 5000px;
+  padding-left: 1rem;
+}
+
+.input-group-rounded .input-group-button .button {
+  border-radius: 0 5000px 5000px 0;
+  font-size: 0.8rem;
+}
+
+.button{
+  background-color:#9dc4d6;
+}
+ 
+.translucent-form-overlay {
+    max-width: 500px;
+    width: 100%;
+    height: 1000px;
+    background-color: rgba(54, 54, 54, 0.8);
+    padding: 100px;
+    color: #fefefe;
+  }
+
+ 
+.social-footer {
+  padding: 1rem;
+  background: #6d3333;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.social-footer .social-footer-icons li:last-of-type {
+  margin-right: 0;
+}
+
+.social-footer .social-footer-icons .fa {
+  font-size: 1.3rem;
+  color: #fefefe;
+}
+
+.social-footer .social-footer-icons .fa:hover {
+  color: #c37721;
+  transition: color 0.3s ease-in;
+}
+
+
+  .translucent-form-overlay h3, .translucent-form-overlay label {
+    color: #fefefe;
+  }
+  
+  .translucent-form-overlay input, .translucent-form-overlay select {
+    color: #8a8a8a;
+  }
+  
+  .translucent-form-overlay input::-webkit-input-placeholder {
+    color: #8a8a8a;
+  }
+  
+  .translucent-form-overlay input:-ms-input-placeholder {
+    color: #8a8a8a;
+  }
+  
+  .translucent-form-overlay input::placeholder {
+    color: #8a8a8a;
+  }
+  
